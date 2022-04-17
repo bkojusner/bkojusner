@@ -20,10 +20,13 @@ Here are some ideas to get you started:
   </a>
   </br>
   <a href="https://github.com/bkojusner">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=bkojusner&count_private=true&show_icons=true&theme=chartreuse-dark" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=bkojusner&count_private=true&show_icons=true&theme=chartreuse-dark" 
+         width="400" />
   </a>
   <a href="https://github.com/bkojusner">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bkojusner&layout=compact&theme=chartreuse-dark&langs_count=8" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bkojusner&layout=compact&theme=chartreuse-dark&langs_count=8" 
+         width="300"
+         height="157" />
   </a>
 </p>
 
