@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 </p>
 <a href="https://github.com/bkojusner">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=bkojusner&count_private=true&show_icons=true&theme=chartreuse-dark" 
-         width="500" />
+         width="300" />
   </a>
   <a href="https://github.com/bkojusner">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bkojusner&layout=compact&theme=chartreuse-dark&langs_count=8"
