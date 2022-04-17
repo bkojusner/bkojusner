@@ -30,15 +30,19 @@ Here are some ideas to get you started:
   </a>
 </p-->
 
-
-<a href="https://twitter.com/floridacyborg">
-  <img src="https://img.shields.io/twitter/follow/floridacyborg?style=for-the-badge&label=%40floridacyborg&logo=twitter&logoColor=00AEFF&labelColor=black&color=7fff00">
-</a>
-</br>
-<a href="https://github.com/bkojusner">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=bkojusner&count_private=true&show_icons=true&theme=chartreuse-dark" />
-</a>
-<a href="https://github.com/bkojusner">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bkojusner&layout=compact&theme=chartreuse-dark&langs_count=8" />
-</a>
+<p align="center">
+  <a href="https://twitter.com/floridacyborg">
+    <img src="https://img.shields.io/twitter/follow/floridacyborg?style=for-the-badge&label=%40floridacyborg&logo=twitter&logoColor=00AEFF&labelColor=black&color=7fff00">
+  </a>
+  </br>
+  <a href="https://github.com/bkojusner">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=bkojusner&count_private=true&show_icons=true&theme=chartreuse-dark" 
+         width="500" />
+  </a>
+  <a href="https://github.com/bkojusner">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bkojusner&layout=compact&theme=chartreuse-dark&langs_count=8"
+         width="375"
+         height="197"/>
+  </a>
+</p>
 
