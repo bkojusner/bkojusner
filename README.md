@@ -1,7 +1,12 @@
-<!--
 ### Hi there 👋
 
-**bkojusner/bkojusner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Blas, a Security Researcher based out of Florida.
+
+🔭 I’m currently doing Mobile Security Research with [@FICS](https://github.com/FICS) and Blockchain Security    
+🌱 I’m a cybersecurity enthusiast and have learned about Web Security, Reverse Engineering, Binary Exploitation, Cryptography, and more!
+  
+I document much of what I do here, but if you want to chat about one of my projects then feel free to reach me at bkojusner@ufl.edu or find me on Twitter below:
+<!--**bkojusner/bkojusner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,6 +19,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 <p align="center">
   <a href="https://twitter.com/floridacyborg">
     <img src="https://img.shields.io/twitter/follow/floridacyborg?style=for-the-badge&label=%40floridacyborg&logo=twitter&logoColor=00AEFF&labelColor=black&color=7fff00">
