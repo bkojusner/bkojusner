@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Blas, a Security Researcher based out of Florida.
+I'm Blas, a Security Researcher based out of the University of Florida.
 
 🔭 I’m currently doing Mobile Security Research with [@FICS](https://github.com/FICS) and Blockchain Security    
 🌱 I’m a cybersecurity enthusiast and have learned about Web Security, Reverse Engineering, Binary Exploitation, Cryptography, and more!
