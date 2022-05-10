@@ -2,7 +2,7 @@
 
 I'm Blas, a Security Researcher based out of the University of Florida.
 
-🔭 I’m currently doing Mobile Security Research with [@FICS](https://github.com/FICS) and Blockchain Security    
+🔭 I’m currently doing Mobile Security Research with [@FICS](https://github.com/FICS) and Blockchain Security with [@OtterSEC](https://github.com/otter-sec)  
 🌱 I’m a cybersecurity enthusiast and have learned about Web Sec, Reverse Engineering, Binary Exploitation, Cryptography, and more!
   
 I document much of what I do here, but if you want to chat about one of my projects then feel free to reach me at bkojusner@ufl.edu or find me on Twitter below:
