@@ -2,7 +2,7 @@
 
 I'm Blas, a Security Researcher based out of the University of Florida.
 
-🔭 I recently interned as a Reverse Engineer for Mandiant and have done Mobile Security Research with [@FICS](https://github.com/FICS).  
+🔭 I recently interned as a Reverse Engineer for [@Mandiant](https://www.mandiant.com/) and have done Mobile Security Research with [@FICS](https://github.com/FICS).  
 🌱 I am a cybersecurity enthusiast and have learned about Reverse Engineering, Binary Exploitation, Cryptography, and more!
   
 I document much of what I do here, but if you want to chat about one of my projects then feel free to reach me at bkojusner@ufl.edu or find me on Twitter below:
