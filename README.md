@@ -1,6 +1,4 @@
-### Hi there 👋
-
-I'm Blas, a Security Researcher and recent M.S. in Computer Science graduate from the University of Florida.
+Security Researcher and recent graduate with an M.S. in Computer Science from the University of Florida.
 
 🔬 I love Reverse Engineering and Vulnerability Research  
 💬 I document much of what I do here, but you can always feel free to reach me at bkojusner@ufl.edu  
