@@ -4,6 +4,7 @@ Security Researcher and recent graduate with an M.S. in Computer Science from th
 💬 I document much of what I do here, but you can always feel free to reach me at bkojusner@ufl.edu  
 🖥️ You can read articles on miscellaneous security topics that interest me at my site [Blas.me](https://www.blas.me)  
 
+<!--
 <p align="center">
   <a href="https://twitter.com/floridacyborg">
     <img src="https://img.shields.io/twitter/follow/floridacyborg?style=for-the-badge&label=%40floridacyborg&logo=twitter&logoColor=00AEFF&labelColor=black&color=7fff00">
@@ -21,6 +22,7 @@ Security Researcher and recent graduate with an M.S. in Computer Science from th
          height="157" />
   </a>
 </p>
+-->
 
 <!--**bkojusner/bkojusner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
