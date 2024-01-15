@@ -1,7 +1,7 @@
 Security Researcher ([@Google](https://www.google.com) + [@Mandiant](https://www.mandiant.com)) with an M.S. in Computer Science from the University of Florida
 
 🔬 I love Malware Reverse Engineering and Vulnerability Research  
-💬 I document much of what I do here, but you can always feel free to reach me at bkojusner@ufl.edu  
+💬 I document much of what I do here, but you can always reach me via email (top-right corner of my webste)  
 🖥️ You can read articles on miscellaneous security topics that interest me at my site [Blas.me](https://www.blas.me)  
 
 <!--
